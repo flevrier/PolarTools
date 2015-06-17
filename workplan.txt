@@ -1,0 +1,2 @@
+Read in simulation cubes, in FITS format, from the STARFORMAT database
+Cubes are arrays of real values, with a unit, and a description (i.e. dust density is not the same as gas density). Attached are coordinate axes. 
